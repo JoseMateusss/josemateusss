@@ -27,5 +27,5 @@
   <a href = "mailto:josemateusp08cs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-mateus-do-nascimento-oliveira-3081a9174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/josemateusss/josemateusss/blob/output/github-contribution-grid-snake.svg)
 </div
