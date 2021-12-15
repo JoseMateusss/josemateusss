@@ -2,7 +2,7 @@
 
 - 👨‍💻 Atualmente sou web developer PHP trainee na @veltydigital
 - 🚀 Experiência com desenvolvimento PHP (Wordpress, Laravel)
-- 🎯 Estudando LARAVEL + VUE.JS
+- 🎯 Estudando LARAVEL + REACT.JS
 - 📌 Quer falar comigo? <a href="https://www.instagram.com/josemateusx/">@josemateux</a> (Instagram)
 <div>
   <a href="https://github.com/josemateusss">
