@@ -1,6 +1,6 @@
 ### Olá! Eu sou Mateus 😃
 
-- 👨‍💻 Atualmente sou web developer PHP trainee na @veltydigital
+- 👨‍💻 Atualmente sou web developer PHP e consultor @kemgroup
 - 🚀 Experiência com desenvolvimento PHP (Wordpress, Laravel)
 - 🎯 Estudando LARAVEL + REACT.JS
 - 📌 Quer falar comigo? <a href="https://www.instagram.com/josemateusx/">@josemateux</a> (Instagram)
